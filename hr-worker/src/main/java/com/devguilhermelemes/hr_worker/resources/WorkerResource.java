@@ -42,7 +42,7 @@ public class WorkerResource {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        */
+        */ 
 
         logger.info("PORT = " + env.getProperty("local.server.port"));
 
