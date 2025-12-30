@@ -12,5 +12,4 @@ public class HrConfigServerApplication {
 		SpringApplication.run(HrConfigServerApplication.class, args);
 		System.out.println("ok");
 	}
-
 }
