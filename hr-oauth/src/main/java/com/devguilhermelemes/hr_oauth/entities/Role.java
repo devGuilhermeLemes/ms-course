@@ -24,11 +24,11 @@ public class Role implements Serializable {
         this.id = id;
     }
 
-    public String getroleName() {
+    public String getRoleName() {
         return roleName;
     }
 
-    public void setroleName(String roleName) {
+    public void setRoleName(String roleName) {
         this.roleName = roleName;
     }
 
